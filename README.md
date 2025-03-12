@@ -6,6 +6,14 @@ AIを利用して日報作成を実行することができます。
 
 https://github.com/user-attachments/assets/f3a590d4-3598-4632-a8f6-ae8b7a7da09c
 
+### モバイル対応
+モバイルアプリにも最適化されて表示します。
+
+![image](https://github.com/user-attachments/assets/478f8b7d-69ef-4e82-9ab8-4d808a56830a)
+
+![image](https://github.com/user-attachments/assets/aef79d91-509a-497b-a80c-581009da97a7)
+
+
 ### プロセスのイメージ
 以下のようなプロセスに利用することを想定しています。
 
