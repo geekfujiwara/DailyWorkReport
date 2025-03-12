@@ -1,6 +1,9 @@
 # DailyWorkReport
 AIを利用して日報作成を実行することができます。
 
+![image](https://github.com/user-attachments/assets/0c38c7a6-4264-4f9f-bd70-37fa0e92e279)
+
+
 ## ソリューションの特長
 スマホあるいはWindowsの文字起こしの機能を利用して報告を音声入力します。フォーマットへは生成AIが自動的に変換してくれます。
 
