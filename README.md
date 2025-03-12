@@ -1,4 +1,4 @@
-# DailyWorkReport
+# AI日報 DailyWorkReport
 AIを利用して日報作成を実行することができます。
 
 ![image](https://github.com/user-attachments/assets/0c38c7a6-4264-4f9f-bd70-37fa0e92e279)
