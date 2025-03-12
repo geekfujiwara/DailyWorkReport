@@ -1,7 +1,7 @@
 # DailyWorkReport
 AIを利用して日報作成を実行
 
-```mermaind
+```mermaid
  graph TD;
     subgraph Dataverse;
         DB[(Dataverse)];
