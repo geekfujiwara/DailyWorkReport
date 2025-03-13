@@ -1,13 +1,16 @@
 # AI日報 DailyWorkReport
 AIを利用して日報作成を実行することができます。
 
-音声入力はスマホの機能や、Windows 11 の標準機能を利用しています。Windows + H キーで音声入力を行うことができます。
 
 ![image](https://github.com/user-attachments/assets/0c38c7a6-4264-4f9f-bd70-37fa0e92e279)
 
 
 ## ソリューションの特長
-スマホあるいはWindowsの文字起こしの機能を利用して報告を音声入力します。フォーマットへは生成AIが自動的に変換してくれます。
+スマホあるいはWindowsの文字起こしの機能を利用して報告を音声入力します。フォーマットへは生成AIが自動的に変換してくれます
+
+> [!Note]
+> 音声入力はスマホの機能や、Windows 11 の標準機能を利用しています。Windows + H キーで音声入力を行うことができます。
+
 
 https://github.com/user-attachments/assets/f3a590d4-3598-4632-a8f6-ae8b7a7da09c
 
